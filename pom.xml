@@ -16,9 +16,14 @@
             <version>4.8.2</version>
             <scope>test</scope>
         </dependency>
+<<<<<<< HEAD
 </dependencies>
 
 <build>
+=======
+    </dependencies>
+    <build>
+>>>>>>> 1d5894cb685576ef15cc5d3fa63b891c273a72c4
       <plugins>
          <plugin>
             <!-- Building an executable jar -->
